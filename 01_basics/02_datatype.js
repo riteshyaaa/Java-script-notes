@@ -17,4 +17,4 @@ console.log("ritesh") //code readability should be high
 // undefined => 
    //  symbol=> unique
 // object
-console.log(typeof "age" )
+console.log(typeof "state" )
